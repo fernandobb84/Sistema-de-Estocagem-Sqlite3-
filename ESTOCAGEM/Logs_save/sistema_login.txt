@@ -1,0 +1,1 @@
+[ERRO]> [Entrada inválida. por favor, digite um número.] -> [15/10/2026|18H:06M]
